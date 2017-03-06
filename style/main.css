@@ -1,0 +1,27 @@
+#body {
+	background-color: black;
+	text-align: center;
+}
+
+#headDiv {
+	background-image: url("../img/gamingHead.jpg");
+	background-size: cover;
+	
+
+}
+
+.headTitle {
+	color: #fff;
+	font-family: 'Griffy', cursive;	
+	font-size: 60px;
+}
+
+#games {
+	margin-top: 30px;
+	font-size: 24px;
+}
+
+.gameTitle {
+	font-size: 24px;
+}
+
